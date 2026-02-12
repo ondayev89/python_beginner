@@ -1,2 +1,4 @@
 # python_beginner
-bu yerda python vazifalarim joylangan
+Python. sariq. dev platformasidagi(python vazifalarim joylangan)
+anvar narzullayev
+
